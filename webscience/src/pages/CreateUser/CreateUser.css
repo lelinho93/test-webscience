@@ -1,0 +1,12 @@
+#form-container {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+
+#button-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 4vw;
+
+}
